@@ -97,7 +97,8 @@ section ul li:hover {
 }
 
 .games-list img {
-    width: 90px;
+    width: 100px;
+    height: 150px;
     border-radius: 8px;
 }
 
